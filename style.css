@@ -1,0 +1,18 @@
+.ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.svg {
+    width: 100px;
+    height: 100px;
+}
+.svg:hover {
+    fill: chartreuse;
+    background-color: chocolate;
+}
+.class {
+    fill: blue;
+    background-color: yellow;
+}
